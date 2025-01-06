@@ -1,3 +1,4 @@
+package com.driver;
 class Main {
 
     static class Product {
